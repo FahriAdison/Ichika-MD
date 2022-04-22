@@ -1,7 +1,9 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Recode By KyuraSaja Dan Papah-Chan
+   * Kalau Mu Ngambil Biasakan Kasih Credit Dek
+   * Contact Me on wa.me/17608914335
+   * Follow https://github.com/FahriAdison
 */
 
 require('./config')
