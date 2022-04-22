@@ -49,7 +49,7 @@ Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
 ## Edit Setting Bot
-Ganti Nomor Owner dan nama bot di [`config.js`](https://github.com/FahriAdison/Ichika-MD/blob/main/config.js)
+Ganti Nomor Owner dan nama bot di [`config.js`](https://github.com/FahriAdison/Ichika-MD/blob/master/config.js)
 Get Apikey zenz hanya daftar di [`zenz`](https://zenzapis.xyz)
 
   
